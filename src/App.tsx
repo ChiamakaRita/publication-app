@@ -1,9 +1,7 @@
-import React from 'react';
-
 function App() {
   return (
-    <div>
-      
+    <div className="shadow p-3">
+      <h1 className="text-danger">PUBLICATIONS</h1>
     </div>
   );
 }

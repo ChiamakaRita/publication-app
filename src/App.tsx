@@ -1,7 +1,9 @@
+import Card from "./components/card/Card";
 function App() {
   return (
-    <div className="shadow p-3">
-      <h1 className="text-danger">PUBLICATIONS</h1>
+    <div>
+      <h1 className="text-danger ">PUBLICATIONS</h1>
+      <Card />
     </div>
   );
 }
